@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "project ecommerce",
+			"path": ".."
+		},
+		{
+			"name": "jasmine-standalone-5.1.1",
+			"path": "../../Users/DELL/Downloads/jasmine-standalone-5.1.1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project ecommerce"
+	}
+}
